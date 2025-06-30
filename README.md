@@ -8,8 +8,8 @@ This project connects a Gradio UI with an AWS Lambda backend that queries a depl
 
 ## 🚀 Demo
 
-🌐 Live UI: [https://coursecrafter.onrender.com](https://coursecrafter.onrender.com)  
-🎥 Demo Video: [https://youtu.be/wfe3USWLW20?feature=shared](https://youtu.be/wfe3USWLW20?feature=shared)
+🌐 Live UI: [https://hackathon-june-28.onrender.com](https://hackathon-june-28.onrender.com)  
+🎥 Demo Video: https://youtu.be/RnvDnqmwhNQ?feature=shared](https://youtu.be/RnvDnqmwhNQ?feature=shared)
 
 ---
 
