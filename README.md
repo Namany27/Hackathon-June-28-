@@ -36,10 +36,11 @@ This project connects a Gradio UI with an AWS Lambda backend that queries a depl
 ## 📂 Project Structure
 
 ```
-├── gradio_ui.py              # Frontend (Gradio UI)
-├── lambda_handler.py         # AWS Lambda backend handler
+├── gradio_ui.py              # Frontend Gradio interface
+├── lambda_handler.py         # AWS Lambda backend function
+├── server.py                 # Modal FastAPI LLM server (Mistral or LLaMA)
 ├── requirements.txt          # Python dependencies
-└── README.md                 # You're here!
+└── README.md                 # Project documentation
 ```
 
 ---
